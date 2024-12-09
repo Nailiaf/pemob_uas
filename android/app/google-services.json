@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "306400194252",
+    "project_id": "pemob-uas-a5923",
+    "storage_bucket": "pemob-uas-a5923.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306400194252:android:9f053012814a9151d89c69",
+        "android_client_info": {
+          "package_name": "com.pemob_uas.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB93xdmTUK9Tycg0BmIzNEvO-iS2beCCSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
